@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --wrapper: #292E29;
+    --wrapper2: #283641;
+    --display: #2a3035;
+    --purple: #4F39D2;
+    --red: #F33D1F;
+    --white: #ffffff;
+    --green: #9fcc2e;
+}

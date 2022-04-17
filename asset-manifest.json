@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/R-Calculator/static/css/main.d242baed.css",
+    "main.js": "/R-Calculator/static/js/main.5e717cb6.js",
+    "index.html": "/R-Calculator/index.html",
+    "main.d242baed.css.map": "/R-Calculator/static/css/main.d242baed.css.map",
+    "main.5e717cb6.js.map": "/R-Calculator/static/js/main.5e717cb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d242baed.css",
+    "static/js/main.5e717cb6.js"
+  ]
+}
